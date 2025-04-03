@@ -37,8 +37,8 @@ The following is a TDD Kata- an exercise in coding, refactoring and test-first a
 # Getting started
 To run this project locally, clone the repository and install the dependencies: 
 ```
-git clone https://github.com/MpPatel4321/StringCalculator.git
-cd StringCalculator
+git clone https://github.com/mahesh-ror/string-calculator.git
+cd string-calculator
 bundle install
 ```
 
